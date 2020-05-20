@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DroidQuest</string>
+    <string name="Yes">Да</string>
+    <string name="No">Нет</string>
+    <string name="Oracle">Oracle любит виртуальные машины?</string>
+    <string name="toast_true">Верно</string>
+    <string name="toast_false">Не верно</string>
+    <string name="button">Следующий</string>
+</resources>
