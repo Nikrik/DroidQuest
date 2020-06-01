@@ -2,8 +2,23 @@
     <string name="app_name">DroidQuest</string>
     <string name="Yes">Да</string>
     <string name="No">Нет</string>
-    <string name="Oracle">Oracle любит виртуальные машины?</string>
     <string name="toast_true">Верно</string>
     <string name="toast_false">Не верно</string>
-    <string name="button">Следующий</string>
+    <string name="next">Следующий</string>
+    <string name="previous">Предыдущий</string>
+    <string name="quests0">Андроид сделан на ядре линукса?</string>
+    <string name="quests1">Оракл любит вируальные машины?</string>
+    <string name="quests2">ARM-самая популярная архитектура?</string>
+    <string name="quests3">Samsung лучше Apple?</string>
+    <string name="quests4">Google Pixel выпускается компанией Google?</string>
+    <string name="quests5">При установке root прав гарантия онулируется?</string>
+    <string name="quests6">Андроид может использоваться, как обычный телефон?</string>
+    <string name="quests7">Андроид перешёл с dalvik на ART cache?</string>
+    <string name="quests8">5G вышки способствуют распространению коронавируса?</string>
+    <string name="quests9">Андроид приложения легко локализировать?</string>
+    <string name="deceive">Обмануть</string>
+    <string name="Nikita">ТЫ АБСОЛЮТНО УВЕРЕН?</string>
+    <string name="cant_be_fooled">Нельзя обманывать</string>
+    <string name="Questions_end">Вопросы закончились</string>
+
 </resources>
